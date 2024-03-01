@@ -1,0 +1,23 @@
+Team Members:
+Aws Almahasneh 20200388 
+Leen Aldib 20200281 
+Abdelrahman Alshwayat 20200729 
+Omar Obeid 20201009
+
+
+Regarding the first 3 steps:
+The word document contains the first 3 steps as specified in the project description video; however, The 2 eerds and schemas have also been uploaded as images just in case they were not too legible on the word document.
+Step 4 was included as a text file as specified in the project description video.
+
+
+Regarding the SQL code:
+The SQL code was written using SQL LIVE and is included in the text file titled: SQL CODE.
+The SQL snapshots have their own word document title SPRING PLAINS ALL SQL SNAPSHOTS
+
+
+Regarding the videos:
+The videos for steps 2, 3 and 4 are titled as follows:
+EERD video EERD-AWS
+Schema video => SCHEMA-ABED
+SQL video => SQL-LEEN
+The videos have been uploaded in this folder as uploading them to youtube would have taken a lot of time.
